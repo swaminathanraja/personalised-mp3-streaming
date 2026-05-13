@@ -1,7 +1,7 @@
 For you mom - Personal Music Streaming Platform
 A personalized, Spotify-inspired web application built to celebrate and enjoy a curated collection of music. This project features a modern user interface, responsive design, and a full suite of playback controls.
 
-🚀 Features
+Features
 Curated Playlist: Pre-loaded with over 100 tracks.
 
 Dynamic Music Player:
@@ -20,7 +20,7 @@ Visualizer: A CSS-based equalizer animation that activates during playback.
 
 Responsive Design: Fully optimized for both desktop and mobile viewing.
 
-🛠️ Technology Stack
+Technology Stack
 HTML5: Semantic structure for the web application.
 
 CSS3: Custom styling with CSS variables for theming, CSS Grid for layout, and keyframe animations for the equalizer.
@@ -29,7 +29,7 @@ JavaScript (ES6+): Core logic for audio handling, playlist rendering, and UI int
 
 Cloudinary: Used for high-performance hosting and streaming of the audio files.
 
-📁 Project Structure
+Project Structure
 Plaintext
 ├── index.html      # Main application structure
 ├── styles.css      # Custom styling and theme configurations
@@ -47,7 +47,7 @@ cd your-repo-name
 Open the application:
 Simply open index.html in your preferred web browser.
 
-📝 Usage
+Usage
 Playing Music: Click on any song in the "Playlist" panel to start playback.
 
 Searching: Type a song title into the search box at the top to filter the playlist instantly.
